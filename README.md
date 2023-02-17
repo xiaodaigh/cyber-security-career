@@ -8,3 +8,5 @@ risk quantification (which technically falls under security GRC).
 https://owasp.org/
 
 TryHackMe.com
+
+https://infosec-conferences.com/
