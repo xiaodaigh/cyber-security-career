@@ -10,3 +10,5 @@ https://owasp.org/
 TryHackMe.com
 
 https://infosec-conferences.com/
+
+as an entry level candidate I recommend A+ -> Network+ -> Security+
